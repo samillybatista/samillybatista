@@ -9,5 +9,3 @@
 <a href= "https://www.linkedin.com/in/samilly-batista-moraes-246b23250">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </div>
-  
-![Snake animation](https://github.com/samillybatista/samillybatista/blob/output/github-contribution-grid-snake.svg)
